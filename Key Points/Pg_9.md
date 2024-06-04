@@ -1,6 +1,4 @@
-1. functions of transformer oil,its constituents,and methods of reactiving deteriorated transformer oil
-
-# Transformer Oil
+* 1. functions of transformer oil,its constituents,and methods of reactiving deteriorated transformer oil
 
 ## Functions of Transformer Oil
 
